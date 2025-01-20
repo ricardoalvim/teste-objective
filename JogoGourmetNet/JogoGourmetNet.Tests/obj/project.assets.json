@@ -5777,11 +5777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj",
       "projectName": "JogoGourmetNet.Tests",
-      "projectPath": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet.Tests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5798,8 +5798,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj": {
-              "projectPath": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj"
+            "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj"
             }
           }
         }

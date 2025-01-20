@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj": {}
+    "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj": {
+    "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj",
         "projectName": "JogoGourmetNet.Tests",
-        "projectPath": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet.Tests\\JogoGourmetNet.Tests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet.Tests\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj"
+              "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj": {
+    "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj",
         "projectName": "JogoGourmetNet",
-        "projectPath": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet\\JogoGourmetNet.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Processos de seleção\\TesteObjective\\JogoGourmetNet\\JogoGourmetNet\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Projetos\\teste-objective\\JogoGourmetNet\\JogoGourmetNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 ﻿namespace JogoGourmetNet.Utils.Message
 {
-    public class MessagePortuguese
+    public class MessageEnglish
     {
         public static string YES => "sim";
         public static string NO => "não";
